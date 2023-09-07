@@ -6,4 +6,4 @@
 <span style="color:orange">*git 2 remote
 ![Git 2](https://i.imgur.com/rAknElf.png)
 
-## Working with trees
+## Working with Trees T.
