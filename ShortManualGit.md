@@ -7,3 +7,5 @@
 ![Git 2](https://i.imgur.com/rAknElf.png)
 
 ## Working with trees
+#### Tree2 for merge +
+#### Tree4 for merge ++
